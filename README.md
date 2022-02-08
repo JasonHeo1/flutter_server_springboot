@@ -120,6 +120,3 @@
 }
 ```
 
-### 사용법 및 API 문서
-- https://blog.naver.com/getinthere/222426449415
-
