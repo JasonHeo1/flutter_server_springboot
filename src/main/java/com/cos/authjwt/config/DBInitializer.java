@@ -14,9 +14,9 @@ import com.cos.authjwt.domain.post.PostRepository;
 import com.cos.authjwt.domain.user.User;
 import com.cos.authjwt.domain.user.UserRepository;
 
-/*@Configuration
+@Configuration
 public class DBInitializer {
-	
+
 	private static final Logger log = LoggerFactory.getLogger(DBInitializer.class);
 
 	    @Bean
@@ -37,4 +37,4 @@ public class DBInitializer {
 	        	postRepository.saveAll(posts);
 	        };
 	    }
-}*/
+}
